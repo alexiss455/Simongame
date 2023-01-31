@@ -1,5 +1,6 @@
 Simon Game Challenge 🎮
-Welcome to the Simon Game Challenge! 🎉 This repository contains a version of the classic memory game, Simon. The goal of the game is to repeat a sequence of flashing colors that the computer generates.
+Welcome to the Simon Game Challenge! 🎉
+This repository contains a version of the classic memory game, Simon. The goal of the game is to repeat a sequence of flashing colors that the computer generates.
 
 How to Play 🕹️
 Press the "Start" button to begin the game. 💡
